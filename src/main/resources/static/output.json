@@ -1,0 +1,20 @@
+[
+  {
+    "color": "GREEN",
+    "size": 40,
+    "cottonPercentage": 10,
+    "stockBalance": 1
+  },
+  {
+    "color": "GREEN",
+    "size": 40,
+    "cottonPercentage": 10,
+    "stockBalance": 2
+  },
+  {
+    "color": "GREEN",
+    "size": 40,
+    "cottonPercentage": 10,
+    "stockBalance": 3
+  }
+]
